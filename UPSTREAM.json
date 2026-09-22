@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/JustVugg/colibri",
+  "commit": "9d5d05de7f4ccf39840224ed295f292ab8aeb598",
+  "license": "MIT",
+  "target": "c/olmoe",
+  "telemetry_status": "OLMoE initializes routing telemetry but does not emit route records at this pin"
+}
+
